@@ -28,7 +28,7 @@ Dataset : https://www.kaggle.com/datasets/shreenidhihipparagi/google-stock-predi
 Solution: 
 
 
-# Task 2
+# TASK 2
 ## Problem statement :
 
 ## Titanic Classification : Algorithm which tells whether the person will be save from sinking or not
