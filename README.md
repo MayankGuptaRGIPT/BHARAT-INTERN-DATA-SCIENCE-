@@ -21,7 +21,12 @@ adjHigh: The adjusted highest value reached by Google's stock on the given day.
 adjLow: The adjusted lowest value reached by Google's stock on the given day.                                          
 adjoin The adjusted opening value of Google's stock on the given day.                                    
 add volume: The adjusted trading volume of Google's stock on the given day, accounting for factors such as stock splits.                         
-divCash: The amount of cash dividend paid out to shareholders on a given day.     
+divCash: The amount of cash dividend paid out to shareholders on the given day.
+splitFactor: The split factor, if any, applied to Google's stock on the given day. A split factor of 1 indicates no split.
+
+Dataset : https://www.kaggle.com/datasets/shreenidhihipparagi/google-stock-prediction
+Solution: 
+
 
 # Task 2
 ## Problem statement :
