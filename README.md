@@ -40,6 +40,6 @@ While there was some element of luck involved in surviving, it seems some groups
 
 In this challenge, we have to a predictive model that answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc).
 
-Solution:
+Solution: https://github.com/MayankGuptaRGIPT/BHARAT-INTERN-DATA-SCIENCE-/blob/main/Task_2_titanic_classification.ipynb
 
 
