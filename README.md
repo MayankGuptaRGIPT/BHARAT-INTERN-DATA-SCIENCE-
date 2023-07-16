@@ -39,15 +39,6 @@ While there was some element of luck involved in surviving, it seems some groups
 
 In this challenge, we have to a predictive model that answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc).
 
-PassengerId: Passenger Identity	
-Survived: Whether passenger survived or not	(0 = No, 1 = Yes)
-Pclass:	Class of ticket, a proxy for socio-economic status (SES)	(1 = 1st, 2 = 2nd, 3 = 3rd)
-Name:	Name of passenger	
-Sex:	Sex of passenger	
-Age:	Age of passenger in years	
-SibSp: Number of sibling and/or spouse travelling with passenger	
-Parch:	Number of parent and/or children travelling with passenger	
-Ticket: Ticket number	
-Fare: Price of ticket	
-Cabin: Cabin number	
-Embarked: Port of embarkation	(C = Cherbourg, Q = Queenstown, S = Southampton)
+Solution:
+
+
